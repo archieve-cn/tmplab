@@ -30,7 +30,7 @@
 小结 2015-09-10 22：
 
  - 修改本地 repository 的文件后，需要 先`git add .`把改动放进暂存区“index”，才能执行`git commit -m "这是说明"`提交到仓库，否则不能更新仓库：`Changes not staged for commit`
- - markdown （的编辑器）一点也不好用。
+ - markdown （的编辑器）一点也不好用（特制上面的有序列表）。
 
 
 
